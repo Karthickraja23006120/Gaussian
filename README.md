@@ -62,7 +62,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](/Screenshot%202023-07-25%20194906.png)
+![gaussian elimination](/Screenshot%202023-07-31%20184116.png)
 
 
 ## Result:
